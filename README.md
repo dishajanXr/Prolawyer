@@ -1,2 +1,1 @@
-# Prolawyer
-Make money super hack 
+~/Cam-hackers $ python3  cam-hackers.py
